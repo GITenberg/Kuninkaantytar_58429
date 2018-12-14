@@ -1,5 +1,5 @@
 _repo: Kuninkaantytar_58429
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Hahnsson, Theodolinda
@@ -11,12 +11,17 @@ contributor:
     gutenberg_agent_id: '5391'
     url: http://www.gutenberg.org/2009/agents/5391
     wikipedia: http://fi.wikipedia.org/wiki/Theodolinda_Hahnsson
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Schorsch, L.
     gutenberg_agent_id: '49953'
     url: http://www.gutenberg.org/2009/agents/49953
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58429#Kuninkaantytar
 gutenberg_issued: '2018-12-08'
 gutenberg_type: Text
 identifiers:
